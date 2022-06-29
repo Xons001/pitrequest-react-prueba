@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc9d628e.css",
+    "main.js": "/static/js/main.1cd7d41a.js",
+    "static/js/787.ee3e4af7.chunk.js": "/static/js/787.ee3e4af7.chunk.js",
+    "static/media/attach.png": "/static/media/attach.bb27dee1f2527028350e.png",
+    "static/media/pitlogo.svg": "/static/media/pitlogo.55b7bcaa5ba636403344b86279f2204f.svg",
+    "static/media/IsoTracker.svg": "/static/media/IsoTracker.bfc6c48bc96a7322314c1352db517751.svg",
+    "static/media/csptracker.svg": "/static/media/csptracker.f6fa17e2ffbbe5e2d1f0424ef3e507ed.svg",
+    "static/media/hand_requests.svg": "/static/media/hand_requests.8458969a50285198328553a41c9e99a8.svg",
+    "static/media/save.svg": "/static/media/save.0b5120ab276c18f802c4423c9ddb4b96.svg",
+    "index.html": "/index.html",
+    "static/media/FolderIcon2.svg": "/static/media/FolderIcon2.e9a793fdc868b6476b409122c710d4a9.svg",
+    "static/media/view_requests.svg": "/static/media/view_requests.34b3b13d8bd5105b6868da06243b73fc.svg",
+    "static/media/back.svg": "/static/media/back.3afb7ee5398193e9584b23b6e07cd4bb.svg",
+    "static/media/SaveIcon2.svg": "/static/media/SaveIcon2.77d466b217b235276096704b22115260.svg",
+    "main.dc9d628e.css.map": "/static/css/main.dc9d628e.css.map",
+    "main.1cd7d41a.js.map": "/static/js/main.1cd7d41a.js.map",
+    "787.ee3e4af7.chunk.js.map": "/static/js/787.ee3e4af7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc9d628e.css",
+    "static/js/main.1cd7d41a.js"
+  ]
+}

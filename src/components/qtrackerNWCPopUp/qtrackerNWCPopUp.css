@@ -1,0 +1,139 @@
+.qtrackerRequest__container{
+    position: relative;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.qtrackerPopUp__input__text{
+    width: 100%;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 1px solid #D2D2D2;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+.qtracker__popUp__title{
+    margin-top: 40px;
+}
+
+.qtrackerPopUp__input__file{
+    width: 100%;
+    height: 31px;
+    gap: 8px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+
+
+.attach__label{
+    float: left;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+
+.priority__label{
+    font-size: 18px;
+}
+
+
+.tooltip__button{
+    margin-left: 10px;
+    border-radius: 1px 1px 1px 1px;
+    height: 34px;
+    margin-top: -7px;
+}
+
+.projectSelect{
+    font-size: 20px;
+    height: 30px;
+    width: 330px;
+    margin-bottom: 17px;
+    border: 1px solid #D2D2D2;
+    border-radius: 4px;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+
+.prioritySelect{
+    font-size: 20px;
+    height: 30px;
+    width: 120px;
+    margin-bottom: 17px;
+    border: 1px solid #D2D2D2;
+    border-radius: 4px;
+}
+
+.carta__input{
+    width: 120px;
+    height: 30px;
+    margin-right: 10px;
+    margin-bottom: 17px;
+    border: 1px solid #D2D2D2;
+    border-radius: 4px;
+}
+
+.btn__submit{
+    /* Auto layout */
+    align-items: center;
+    padding: 8px 32px;
+    color: #FFFFFF;
+    width: 110px;
+    height: 41px;
+    border: 1px solid #338DF1;
+    /* Secondary/azul 80% */
+
+    background: #338DF1;
+    border-radius: 8px;
+}
+
+
+.btn__cancel{
+    /* Auto layout */
+    align-items: center;
+    padding: 8px 32px;
+    color: #0070ED;
+    width: 110px;
+    height: 41px;
+    border: 1px solid #0070ED;
+    margin-left: 30px;
+    /* Secondary/azul 80% */
+    
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+/* projectPopUp.js */
+.btn__submit__project{
+    align-items: center;
+    color: #FFFFFF;
+    width: 100px;
+    height: 50px;
+    border: 1px solid #338DF1;
+    margin-top: 540px;
+    margin-left: 30px;
+    font-size: 17px;
+
+    background: #338DF1;
+    border-radius: 8px;
+}
+
+/* projectPopUp.js */
+.btn__cancel__project{
+    /* Auto layout */
+    align-items: center;
+    color: #0070ED;
+    width: 100px;
+    height: 50px;
+    border: 1px solid #0070ED;
+    margin-left: 30px;
+    margin-top: 540px;
+    font-size: 17px;
+    /* Secondary/azul 80% */
+
+    background: #FFFFFF;
+    border-radius: 8px;
+}
